@@ -1,3 +1,7 @@
+提取出的skill做的demo演示
+https://front-skills.ballbox.org/
+
+
 # 网页风格 Skill 生成器
 
 这是一个用于提取网页前端设计语言的 Agent Skill。它会从网站入口 URL 出发，结合源 HTML、CSS、JS、运行时 DOM、computed styles、截图、动效轨迹、响应式状态和人工反馈，生成一个可复用的前端风格模板 Skill 文件夹。
