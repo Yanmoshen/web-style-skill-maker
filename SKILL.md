@@ -1,9 +1,9 @@
 ---
-name: web-style-skill-maker-zh
-description: 中文版网页前端风格提取 Skill。分析网站 URL、源 HTML/CSS/JS、DOM 状态、截图、动效和响应式行为，提取可复用的前端设计语言，并生成生产级 front-site-name 风格 Skill 文件夹。Use when the user asks in Chinese to analyze a website frontend style, UI design, visual language, source code, layout, typography, icons, motion, demo fidelity, or turn a web reference into a reusable frontend template/style skill with QA scoring.
+name: web-style-skill-maker
+description: 网页前端风格提取 Skill。分析网站 URL、源 HTML/CSS/JS、DOM 状态、截图、动效和响应式行为，提取可复用的前端设计语言，并生成生产级 front-site-name 风格 Skill 文件夹。Use when the user asks to analyze a website frontend style, UI design, visual language, source code, layout, typography, icons, motion, demo fidelity, or turn a web reference into a reusable frontend template/style skill with QA scoring.
 ---
 
-# 网页风格 Skill 生成器中文版
+# 网页风格 Skill 生成器
 
 ## 执行标准
 

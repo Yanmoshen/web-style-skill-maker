@@ -1,4 +1,4 @@
-# 网页风格 Skill 生成器中文版
+# 网页风格 Skill 生成器
 
 这是一个用于提取网页前端设计语言的 Agent Skill。它会从网站入口 URL 出发，结合源 HTML、CSS、JS、运行时 DOM、computed styles、截图、动效轨迹、响应式状态和人工反馈，生成一个可复用的前端风格模板 Skill 文件夹。
 
@@ -27,13 +27,13 @@
 Windows PowerShell：
 
 ```powershell
-git clone https://github.com/Yanmoshen/web-style-skill-maker-zh.git "$HOME\.agents\skills\web-style-skill-maker-zh"
+git clone https://github.com/Yanmoshen/web-style-skill-maker.git "$HOME\.agents\skills\web-style-skill-maker"
 ```
 
 Linux / macOS：
 
 ```bash
-git clone https://github.com/Yanmoshen/web-style-skill-maker-zh.git "$HOME/.agents/skills/web-style-skill-maker-zh"
+git clone https://github.com/Yanmoshen/web-style-skill-maker.git "$HOME/.agents/skills/web-style-skill-maker"
 ```
 
 安装后，确保你的 Agent 会读取：
@@ -47,7 +47,7 @@ git clone https://github.com/Yanmoshen/web-style-skill-maker-zh.git "$HOME/.agen
 在支持 Skills 的 Agent 里直接引用：
 
 ```text
-使用 $web-style-skill-maker-zh 分析 https://example.com，并生成一个可复用的前端风格 Skill。
+使用 $web-style-skill-maker 分析 https://example.com，并生成一个可复用的前端风格 Skill。
 ```
 
 如果你只给 Agent 一个网址，也可以把它约定成自动执行提取、生成 demo、评分和发布前检查。
