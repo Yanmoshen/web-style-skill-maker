@@ -1,0 +1,4 @@
+interface:
+  display_name: "网页风格 Skill 生成器中文版"
+  short_description: "把网站源码与视觉证据提取成前端风格 Skill"
+  default_prompt: "使用 $web-style-skill-maker-zh 分析这个网站链接，并从源码、DOM、截图和交互证据中生成一个可复用的前端风格 Skill 文件夹。"
