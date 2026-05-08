@@ -113,3 +113,6 @@ front-<site-slug>/
 - `scripts/`：源码证据采集、运行时审计、动效捕捉、评分和 Skill 生成脚本。
 - `qa/`：阻断规则。
 - `templates/`：返工报告模板。
+
+友链
+https://linux.do/
